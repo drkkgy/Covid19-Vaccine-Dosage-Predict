@@ -2,7 +2,38 @@
 
 ## Its an Community Initiative to analyse data pertaining to Covid-19 for the prediction of Minimum no of Dosage of vaccine required by country to vaccinate
 
+Core Authors/Contributors:-
 
+
+Ankit Yadav (Developer and Conceptualisation )
+
+![Ankit Yadav]("https://drive.google.com/file/d/1VJVTbMTvycEuuigBW3guyvjla_2LkafF/view?usp=sharing")
+
+* Connect at :-
+    * Twitter:- https://twitter.com/drkkgy1995
+    * Linkedin:- https://www.linkedin.com/in/ankityadav008/
+    * Github:- https://github.com/drkkgy
+    * Medium:- https://medium.com/@ankityadav_60359
+
+Astha Mehta (Developer )
+
+* Connect at :-
+    * Twitter:- https://twitter.com/drkkgy1995
+    * Linkedin:- https://www.linkedin.com/in/ankityadav008/
+    * Github:- https://github.com/drkkgy
+    * Medium:- https://medium.com/@ankityadav_60359
+    
+Wuleta Leamma (Assistance in Medical Aspects and Reviewer)
+
+* Connect at :-
+    * Twitter:- https://twitter.com/drkkgy1995
+    * Linkedin:- https://www.linkedin.com/in/ankityadav008/
+    * Github:- https://github.com/drkkgy
+    * Medium:- https://medium.com/@ankityadav_60359
+    
+##Idea
+The main idea behind the development of this project is to device the pandemic impact on nations and also 
+their susceptibility of the spread of disease and to estimate the urgent requirement of Vaccines by Nations 
 
 
 ## Data Sources
