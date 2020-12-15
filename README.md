@@ -7,8 +7,7 @@ Core Authors/Contributors:-
 
 Ankit Yadav (Developer and Conceptualisation )
 
-![Ankit Yadav]("https://drive.google.com/file/d/1VJVTbMTvycEuuigBW3guyvjla_2LkafF/view")
-
+![Ankit Yadav](./Author_Details/AnkitsPic.jpg?raw=true  "Ankit Yadav")
 * Connect at :-
     * Twitter:- https://twitter.com/drkkgy1995
     * Linkedin:- https://www.linkedin.com/in/ankityadav008/
