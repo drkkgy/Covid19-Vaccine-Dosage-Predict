@@ -16,6 +16,7 @@ Ankit Yadav (Developer and Conceptualisation )
 
 Astha Mehta (Developer )
 
+![Astha Mehta](./Author_Details/aastha.jpg?raw=true  "Astha Mehta")
 * Connect at :-
     * Twitter:- https://twitter.com/drkkgy1995
     * Linkedin:- https://www.linkedin.com/in/ankityadav008/
@@ -24,6 +25,7 @@ Astha Mehta (Developer )
     
 Wuleta Leamma (Assistance in Medical Aspects and Reviewer)
 
+![Wuleta Leamma](./Author_Details/Lemma.jpg?raw=true  "Wuleta Leamma")
 * Connect at :-
     * Twitter:- https://twitter.com/drkkgy1995
     * Linkedin:- https://www.linkedin.com/in/ankityadav008/
